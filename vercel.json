@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://4bb4-146-152-233-36.ngrok-free.app/"
+      "dest": "https://a6eb-146-152-233-36.ngrok-free.app/"
     }
   ]
 }
